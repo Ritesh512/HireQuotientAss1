@@ -1,2 +1,2 @@
 # HireQuotientAss1
-## <a href="https://ritesh512.github.io/Omnifood---Never-Cook-Food-Again/">Visit the page </a>
+## <a href="https://ritesh512.github.io/HireQuotientAss1/">Visit the page </a>
