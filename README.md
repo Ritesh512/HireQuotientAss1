@@ -1,2 +1,2 @@
-# HireQuotientAss1
-## <a href="https://ritesh512.github.io/HireQuotientAss1/">Visit the page </a>
+# WebsiteUIDesign
+## <a href="https://ritesh512.github.io/WebsiteUIDesign/">Visit the page </a>
